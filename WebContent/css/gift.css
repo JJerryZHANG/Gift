@@ -1,0 +1,37 @@
+@CHARSET "UTF-8";
+
+iframe{
+	width:700px; 
+	height:204px;
+	font-size:20px;
+}
+
+#info{
+	height:550px;
+}
+
+#giftinfo{
+	height:200px;
+}
+
+#photo{
+	height:200px;
+	width:250px;
+	float:left;
+	
+}
+
+#basic{
+	height:200px;
+	width:500px;
+	flaot:left;
+	font-size:15px;
+}
+
+#about{
+	
+}
+
+#gift_related{
+	
+}
